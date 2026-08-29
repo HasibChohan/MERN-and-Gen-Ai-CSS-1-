@@ -1,0 +1,79 @@
+/* .Box-1{
+    color: orange;
+    background-color: aquamarine;
+    font-size: 20px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+
+    margin: 50px;
+    border: 10px solid black;
+    padding: 60px;
+}
+.Box-2{
+    color:brown;
+    background-color: bisque;
+    font-size: 25px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+
+    margin: 50px;
+    border: 5px solid red ;
+    padding: 40px;
+} */
+
+.P-1{
+    color: rgb(184, 161, 133);
+    background-color:rgb(24, 70, 24) ;
+    margin: 40px;
+    border: 5px solid black;
+    padding: 30px;
+
+}
+input{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    border-color: gray;
+    border: none;
+}
+.P-2{
+    color: bisque;
+    background-color: rgb(27, 62, 27);
+     margin: 40px;
+    border: 5px solid black;
+    padding: 30px;
+}
+
+.P-3{
+    color: rgb(184, 161, 133);
+    background-color:rgb(23, 66, 23) ;
+    margin: 40px;
+    border: 5px solid black;
+    padding: 30px;
+}
+.P-4{
+    color: bisque;
+    background-color: rgb(27, 62, 27);
+     margin: 40px;
+    border: 5px solid black;
+    padding: 30px;
+}
+
+fieldset{
+    color: black;
+    background-color: rgb(156, 169, 136);
+}
+legend{
+    color: black;
+    background-color: rgb(166, 90, 90);
+}
+.P-5{
+    color: black;
+    border: 10px;
+    padding: 20px;
+    margin: 10px;
+    width: 80px;
+    color: white;
+    background-color: rgb(27, 61, 27);
+    
+}
